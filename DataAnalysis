@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "e4512c30",
+   "id": "9b4239de",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:08.503656Z",
-     "iopub.status.busy": "2024-07-22T20:50:08.503237Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.477669Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.476019Z"
+     "iopub.execute_input": "2024-07-23T14:49:07.307667Z",
+     "iopub.status.busy": "2024-07-23T14:49:07.307204Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.166967Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.165569Z"
     },
     "papermill": {
-     "duration": 0.984919,
-     "end_time": "2024-07-22T20:50:09.480590",
+     "duration": 0.869874,
+     "end_time": "2024-07-23T14:49:08.169473",
      "exception": false,
-     "start_time": "2024-07-22T20:50:08.495671",
+     "start_time": "2024-07-23T14:49:07.299599",
      "status": "completed"
     },
     "tags": []
@@ -56,19 +56,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "980a8502",
+   "id": "f6b35f93",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.494291Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.493562Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.541617Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.539991Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.181976Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.181407Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.227957Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.226828Z"
     },
     "papermill": {
-     "duration": 0.057685,
-     "end_time": "2024-07-22T20:50:09.544347",
+     "duration": 0.055849,
+     "end_time": "2024-07-23T14:49:08.230651",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.486662",
+     "start_time": "2024-07-23T14:49:08.174802",
      "status": "completed"
     },
     "tags": []
@@ -224,19 +224,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "e0d37936",
+   "id": "e0f0093f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.558425Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.557712Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.583483Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.582282Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.243308Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.242846Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.267919Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.266869Z"
     },
     "papermill": {
-     "duration": 0.035944,
-     "end_time": "2024-07-22T20:50:09.586232",
+     "duration": 0.03414,
+     "end_time": "2024-07-23T14:49:08.270241",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.550288",
+     "start_time": "2024-07-23T14:49:08.236101",
      "status": "completed"
     },
     "tags": []
@@ -275,19 +275,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "8929dc4a",
+   "id": "c5c70495",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.600401Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.599996Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.635448Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.634138Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.282581Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.282205Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.316780Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.315614Z"
     },
     "papermill": {
-     "duration": 0.045674,
-     "end_time": "2024-07-22T20:50:09.638066",
+     "duration": 0.044057,
+     "end_time": "2024-07-23T14:49:08.319636",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.592392",
+     "start_time": "2024-07-23T14:49:08.275579",
      "status": "completed"
     },
     "tags": []
@@ -442,19 +442,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "58161d46",
+   "id": "bf234344",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.652505Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.652099Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.671199Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.670133Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.334243Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.333817Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.351373Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.350105Z"
     },
     "papermill": {
-     "duration": 0.029306,
-     "end_time": "2024-07-22T20:50:09.673687",
+     "duration": 0.028487,
+     "end_time": "2024-07-23T14:49:08.354412",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.644381",
+     "start_time": "2024-07-23T14:49:08.325925",
      "status": "completed"
     },
     "tags": []
@@ -501,19 +501,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "3f484d7c",
+   "id": "74ba789d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.689313Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.688876Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.705421Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.703978Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.367879Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.367421Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.382440Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.381310Z"
     },
     "papermill": {
-     "duration": 0.027499,
-     "end_time": "2024-07-22T20:50:09.708250",
+     "duration": 0.024833,
+     "end_time": "2024-07-23T14:49:08.385007",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.680751",
+     "start_time": "2024-07-23T14:49:08.360174",
      "status": "completed"
     },
     "tags": []
@@ -558,19 +558,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "ca5b044f",
+   "id": "011e73b9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.723947Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.723463Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.739877Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.738785Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.398639Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.398229Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.414356Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.413240Z"
     },
     "papermill": {
-     "duration": 0.027411,
-     "end_time": "2024-07-22T20:50:09.742603",
+     "duration": 0.026468,
+     "end_time": "2024-07-23T14:49:08.417499",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.715192",
+     "start_time": "2024-07-23T14:49:08.391031",
      "status": "completed"
     },
     "tags": []
@@ -652,19 +652,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "949369bc",
+   "id": "67ebddf6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.759622Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.759206Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.766684Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.765627Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.433355Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.432388Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.439934Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.438800Z"
     },
     "papermill": {
-     "duration": 0.01929,
-     "end_time": "2024-07-22T20:50:09.769192",
+     "duration": 0.018328,
+     "end_time": "2024-07-23T14:49:08.442771",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.749902",
+     "start_time": "2024-07-23T14:49:08.424443",
      "status": "completed"
     },
     "tags": []
@@ -688,19 +688,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "9e0eb557",
+   "id": "5d801ef1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.786881Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.785984Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.794818Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.793686Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.457923Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.457191Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.465770Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.464718Z"
     },
     "papermill": {
-     "duration": 0.020767,
-     "end_time": "2024-07-22T20:50:09.797573",
+     "duration": 0.018825,
+     "end_time": "2024-07-23T14:49:08.468072",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.776806",
+     "start_time": "2024-07-23T14:49:08.449247",
      "status": "completed"
     },
     "tags": []
@@ -728,19 +728,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "ccbe9b4c",
+   "id": "bff46b1d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.815932Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.815521Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.833600Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.832213Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.483114Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.482014Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.497891Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.496581Z"
     },
     "papermill": {
-     "duration": 0.031215,
-     "end_time": "2024-07-22T20:50:09.836497",
+     "duration": 0.026156,
+     "end_time": "2024-07-23T14:49:08.500562",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.805282",
+     "start_time": "2024-07-23T14:49:08.474406",
      "status": "completed"
     },
     "tags": []
@@ -787,19 +787,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "9948c9cb",
+   "id": "330cc0cd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.853626Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.853214Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.859921Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.858758Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.515876Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.515007Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.521588Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.520447Z"
     },
     "papermill": {
-     "duration": 0.018412,
-     "end_time": "2024-07-22T20:50:09.862516",
+     "duration": 0.017049,
+     "end_time": "2024-07-23T14:49:08.524140",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.844104",
+     "start_time": "2024-07-23T14:49:08.507091",
      "status": "completed"
     },
     "tags": []
@@ -813,19 +813,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "dc8af553",
+   "id": "ef920db4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.880403Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.880011Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.893754Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.892728Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.539140Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.538684Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.551592Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.550490Z"
     },
     "papermill": {
-     "duration": 0.025517,
-     "end_time": "2024-07-22T20:50:09.896252",
+     "duration": 0.0234,
+     "end_time": "2024-07-23T14:49:08.554047",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.870735",
+     "start_time": "2024-07-23T14:49:08.530647",
      "status": "completed"
     },
     "tags": []
@@ -859,28 +859,28 @@
        "  <tbody>\n",
        "    <tr>\n",
        "      <th>0</th>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>3</th>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>...</th>\n",
@@ -889,28 +889,28 @@
        "    </tr>\n",
        "    <tr>\n",
        "      <th>886</th>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>887</th>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>888</th>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>889</th>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>890</th>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -918,18 +918,18 @@
        "</div>"
       ],
       "text/plain": [
-       "     female   male\n",
-       "0     False   True\n",
-       "1      True  False\n",
-       "2      True  False\n",
-       "3      True  False\n",
-       "4     False   True\n",
-       "..      ...    ...\n",
-       "886   False   True\n",
-       "887    True  False\n",
-       "888    True  False\n",
-       "889   False   True\n",
-       "890   False   True\n",
+       "     female  male\n",
+       "0         0     1\n",
+       "1         1     0\n",
+       "2         1     0\n",
+       "3         1     0\n",
+       "4         0     1\n",
+       "..      ...   ...\n",
+       "886       0     1\n",
+       "887       1     0\n",
+       "888       1     0\n",
+       "889       0     1\n",
+       "890       0     1\n",
        "\n",
        "[891 rows x 2 columns]"
       ]
@@ -939,26 +939,26 @@
     }
    ],
    "source": [
-    "one_hot_X = pd.get_dummies(filtered_data.Sex)\n",
+    "one_hot_X = pd.get_dummies(filtered_data.Sex, dtype='int')\n",
     "display(one_hot_X)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "39e25b6b",
+   "id": "ae91fbcc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.914204Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.913794Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.920716Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.919646Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.569626Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.568949Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.575759Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.574694Z"
     },
     "papermill": {
-     "duration": 0.018832,
-     "end_time": "2024-07-22T20:50:09.923242",
+     "duration": 0.017116,
+     "end_time": "2024-07-23T14:49:08.578130",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.904410",
+     "start_time": "2024-07-23T14:49:08.561014",
      "status": "completed"
     },
     "tags": []
@@ -971,19 +971,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "2a60ff1d",
+   "id": "1f16c99a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-22T20:50:09.942089Z",
-     "iopub.status.busy": "2024-07-22T20:50:09.941213Z",
-     "iopub.status.idle": "2024-07-22T20:50:09.959420Z",
-     "shell.execute_reply": "2024-07-22T20:50:09.958342Z"
+     "iopub.execute_input": "2024-07-23T14:49:08.593646Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.593267Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.609517Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.608474Z"
     },
     "papermill": {
-     "duration": 0.030239,
-     "end_time": "2024-07-22T20:50:09.961883",
+     "duration": 0.026897,
+     "end_time": "2024-07-23T14:49:08.611835",
      "exception": false,
-     "start_time": "2024-07-22T20:50:09.931644",
+     "start_time": "2024-07-23T14:49:08.584938",
      "status": "completed"
     },
     "tags": []
@@ -1011,7 +1011,6 @@
        "    <tr style=\"text-align: right;\">\n",
        "      <th></th>\n",
        "      <th>Pclass</th>\n",
-       "      <th>Sex</th>\n",
        "      <th>Age</th>\n",
        "      <th>SibSp</th>\n",
        "      <th>Parch</th>\n",
@@ -1025,65 +1024,278 @@
        "    <tr>\n",
        "      <th>0</th>\n",
        "      <td>3</td>\n",
-       "      <td>male</td>\n",
        "      <td>22.000000</td>\n",
        "      <td>1</td>\n",
        "      <td>0</td>\n",
        "      <td>7.2500</td>\n",
        "      <td>S</td>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
        "      <td>1</td>\n",
-       "      <td>female</td>\n",
        "      <td>38.000000</td>\n",
        "      <td>1</td>\n",
        "      <td>0</td>\n",
        "      <td>71.2833</td>\n",
        "      <td>C</td>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
        "      <td>3</td>\n",
-       "      <td>female</td>\n",
        "      <td>26.000000</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
        "      <td>7.9250</td>\n",
        "      <td>S</td>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>3</th>\n",
        "      <td>1</td>\n",
-       "      <td>female</td>\n",
        "      <td>35.000000</td>\n",
        "      <td>1</td>\n",
        "      <td>0</td>\n",
        "      <td>53.1000</td>\n",
        "      <td>S</td>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
        "      <td>3</td>\n",
-       "      <td>male</td>\n",
        "      <td>35.000000</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
        "      <td>8.0500</td>\n",
        "      <td>S</td>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>...</th>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>886</th>\n",
+       "      <td>2</td>\n",
+       "      <td>27.000000</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>13.0000</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>887</th>\n",
+       "      <td>1</td>\n",
+       "      <td>19.000000</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>30.0000</td>\n",
+       "      <td>S</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>888</th>\n",
+       "      <td>3</td>\n",
+       "      <td>29.699118</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2</td>\n",
+       "      <td>23.4500</td>\n",
+       "      <td>S</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>889</th>\n",
+       "      <td>1</td>\n",
+       "      <td>26.000000</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>30.0000</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>890</th>\n",
+       "      <td>3</td>\n",
+       "      <td>32.000000</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.7500</td>\n",
+       "      <td>Q</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>891 rows × 8 columns</p>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     Pclass        Age  SibSp  Parch     Fare Embarked  female  male\n",
+       "0         3  22.000000      1      0   7.2500        S       0     1\n",
+       "1         1  38.000000      1      0  71.2833        C       1     0\n",
+       "2         3  26.000000      0      0   7.9250        S       1     0\n",
+       "3         1  35.000000      1      0  53.1000        S       1     0\n",
+       "4         3  35.000000      0      0   8.0500        S       0     1\n",
+       "..      ...        ...    ...    ...      ...      ...     ...   ...\n",
+       "886       2  27.000000      0      0  13.0000        S       0     1\n",
+       "887       1  19.000000      0      0  30.0000        S       1     0\n",
+       "888       3  29.699118      1      2  23.4500        S       1     0\n",
+       "889       1  26.000000      0      0  30.0000        C       0     1\n",
+       "890       3  32.000000      0      0   7.7500        Q       0     1\n",
+       "\n",
+       "[891 rows x 8 columns]"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "X = X.drop(['Sex'], axis=1)\n",
+    "display(X)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "22845f18",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-23T14:49:08.627928Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.627519Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.647905Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.646578Z"
+    },
+    "papermill": {
+     "duration": 0.03173,
+     "end_time": "2024-07-23T14:49:08.650478",
+     "exception": false,
+     "start_time": "2024-07-23T14:49:08.618748",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>female</th>\n",
+       "      <th>male</th>\n",
+       "      <th>C</th>\n",
+       "      <th>Q</th>\n",
+       "      <th>S</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>3</td>\n",
+       "      <td>22.000000</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.2500</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>38.000000</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>71.2833</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>3</td>\n",
+       "      <td>26.000000</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.9250</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1</td>\n",
+       "      <td>35.000000</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>53.1000</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>3</td>\n",
+       "      <td>35.000000</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>8.0500</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>...</th>\n",
+       "      <td>...</td>\n",
        "      <td>...</td>\n",
        "      <td>...</td>\n",
        "      <td>...</td>\n",
@@ -1097,83 +1309,88 @@
        "    <tr>\n",
        "      <th>886</th>\n",
        "      <td>2</td>\n",
-       "      <td>male</td>\n",
        "      <td>27.000000</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
        "      <td>13.0000</td>\n",
-       "      <td>S</td>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>887</th>\n",
        "      <td>1</td>\n",
-       "      <td>female</td>\n",
        "      <td>19.000000</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
        "      <td>30.0000</td>\n",
-       "      <td>S</td>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>888</th>\n",
        "      <td>3</td>\n",
-       "      <td>female</td>\n",
        "      <td>29.699118</td>\n",
        "      <td>1</td>\n",
        "      <td>2</td>\n",
        "      <td>23.4500</td>\n",
-       "      <td>S</td>\n",
-       "      <td>True</td>\n",
-       "      <td>False</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>889</th>\n",
        "      <td>1</td>\n",
-       "      <td>male</td>\n",
        "      <td>26.000000</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
        "      <td>30.0000</td>\n",
-       "      <td>C</td>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>890</th>\n",
        "      <td>3</td>\n",
-       "      <td>male</td>\n",
        "      <td>32.000000</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
        "      <td>7.7500</td>\n",
-       "      <td>Q</td>\n",
-       "      <td>False</td>\n",
-       "      <td>True</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
-       "<p>891 rows × 9 columns</p>\n",
+       "<p>891 rows × 10 columns</p>\n",
        "</div>"
       ],
       "text/plain": [
-       "     Pclass     Sex        Age  SibSp  Parch     Fare Embarked  female   male\n",
-       "0         3    male  22.000000      1      0   7.2500        S   False   True\n",
-       "1         1  female  38.000000      1      0  71.2833        C    True  False\n",
-       "2         3  female  26.000000      0      0   7.9250        S    True  False\n",
-       "3         1  female  35.000000      1      0  53.1000        S    True  False\n",
-       "4         3    male  35.000000      0      0   8.0500        S   False   True\n",
-       "..      ...     ...        ...    ...    ...      ...      ...     ...    ...\n",
-       "886       2    male  27.000000      0      0  13.0000        S   False   True\n",
-       "887       1  female  19.000000      0      0  30.0000        S    True  False\n",
-       "888       3  female  29.699118      1      2  23.4500        S    True  False\n",
-       "889       1    male  26.000000      0      0  30.0000        C   False   True\n",
-       "890       3    male  32.000000      0      0   7.7500        Q   False   True\n",
+       "     Pclass        Age  SibSp  Parch     Fare  female  male  C  Q  S\n",
+       "0         3  22.000000      1      0   7.2500       0     1  0  0  1\n",
+       "1         1  38.000000      1      0  71.2833       1     0  1  0  0\n",
+       "2         3  26.000000      0      0   7.9250       1     0  0  0  1\n",
+       "3         1  35.000000      1      0  53.1000       1     0  0  0  1\n",
+       "4         3  35.000000      0      0   8.0500       0     1  0  0  1\n",
+       "..      ...        ...    ...    ...      ...     ...   ... .. .. ..\n",
+       "886       2  27.000000      0      0  13.0000       0     1  0  0  1\n",
+       "887       1  19.000000      0      0  30.0000       1     0  0  0  1\n",
+       "888       3  29.699118      1      2  23.4500       1     0  0  0  1\n",
+       "889       1  26.000000      0      0  30.0000       0     1  1  0  0\n",
+       "890       3  32.000000      0      0   7.7500       0     1  0  1  0\n",
        "\n",
-       "[891 rows x 9 columns]"
+       "[891 rows x 10 columns]"
       ]
      },
      "metadata": {},
@@ -1181,7 +1398,159 @@
     }
    ],
    "source": [
+    "one_hot_X = pd.get_dummies(filtered_data.Embarked, dtype='int')\n",
+    "X = pd.concat([X, one_hot_X], axis=1)\n",
+    "X = X.drop(['Embarked'], axis=1)\n",
     "display(X)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "b84dc024",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-23T14:49:08.668147Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.667691Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.679535Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.678460Z"
+    },
+    "papermill": {
+     "duration": 0.024217,
+     "end_time": "2024-07-23T14:49:08.682483",
+     "exception": false,
+     "start_time": "2024-07-23T14:49:08.658266",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "RangeIndex: 891 entries, 0 to 890\n",
+      "Data columns (total 10 columns):\n",
+      " #   Column  Non-Null Count  Dtype  \n",
+      "---  ------  --------------  -----  \n",
+      " 0   Pclass  891 non-null    int64  \n",
+      " 1   Age     891 non-null    float64\n",
+      " 2   SibSp   891 non-null    int64  \n",
+      " 3   Parch   891 non-null    int64  \n",
+      " 4   Fare    891 non-null    float64\n",
+      " 5   female  891 non-null    int64  \n",
+      " 6   male    891 non-null    int64  \n",
+      " 7   C       891 non-null    int64  \n",
+      " 8   Q       891 non-null    int64  \n",
+      " 9   S       891 non-null    int64  \n",
+      "dtypes: float64(2), int64(8)\n",
+      "memory usage: 69.7 KB\n"
+     ]
+    }
+   ],
+   "source": [
+    "X.info()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "6e91ef45",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-23T14:49:08.698621Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.698222Z",
+     "iopub.status.idle": "2024-07-23T14:49:08.706744Z",
+     "shell.execute_reply": "2024-07-23T14:49:08.705575Z"
+    },
+    "papermill": {
+     "duration": 0.019272,
+     "end_time": "2024-07-23T14:49:08.708966",
+     "exception": false,
+     "start_time": "2024-07-23T14:49:08.689694",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0      0\n",
+       "1      1\n",
+       "2      1\n",
+       "3      1\n",
+       "4      0\n",
+       "      ..\n",
+       "886    0\n",
+       "887    1\n",
+       "888    0\n",
+       "889    1\n",
+       "890    0\n",
+       "Name: Survived, Length: 891, dtype: int64"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "display(y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "0c3aa231",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-23T14:49:08.725470Z",
+     "iopub.status.busy": "2024-07-23T14:49:08.725092Z",
+     "iopub.status.idle": "2024-07-23T14:49:10.091075Z",
+     "shell.execute_reply": "2024-07-23T14:49:10.089204Z"
+    },
+    "papermill": {
+     "duration": 1.377423,
+     "end_time": "2024-07-23T14:49:10.093795",
+     "exception": false,
+     "start_time": "2024-07-23T14:49:08.716372",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/opt/conda/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):\n",
+      "STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.\n",
+      "\n",
+      "Increase the number of iterations (max_iter) or scale the data as shown in:\n",
+      "    https://scikit-learn.org/stable/modules/preprocessing.html\n",
+      "Please also refer to the documentation for alternative solver options:\n",
+      "    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression\n",
+      "  n_iter_i = _check_optimize_result(\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "0.8002244668911336"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "from sklearn.linear_model import LogisticRegression\n",
+    "\n",
+    "clf = LogisticRegression(random_state=0).fit(X, y)\n",
+    "\n",
+    "clf.score(X,y)"
    ]
   }
  ],
@@ -1220,14 +1589,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 5.082274,
-   "end_time": "2024-07-22T20:50:10.491872",
+   "duration": 6.218425,
+   "end_time": "2024-07-23T14:49:10.722645",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-07-22T20:50:05.409598",
+   "start_time": "2024-07-23T14:49:04.504220",
    "version": "2.5.0"
   }
  },
